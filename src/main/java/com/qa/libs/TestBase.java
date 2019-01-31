@@ -3,7 +3,7 @@ package com.qa.libs;
 public class TestBase {
 
 	
-	public void test() {
+	public void testt() {
 		
 		System.out.println("test");
 	}
