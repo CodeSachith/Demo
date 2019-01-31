@@ -1,6 +1,10 @@
 package com.qa.utils;
 
 public class UtilClass {
+	
+	public void method() {
 
-  Syste.out.println("UtilClass");
+  System.out.println("UtilClass");
+  
+	}
 }
